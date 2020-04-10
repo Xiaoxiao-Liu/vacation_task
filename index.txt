@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-mac ua-webkit book-new-nav">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+豆瓣图书标签: 童话
+</title>
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+<script>var _head_start = new Date();</script>
+<link href="https://img3.doubanio.com/f/book/1604a80024fc12b4f7a3c77519ba00486636863f/css/book/master.css" rel="stylesheet" type="text/css">
+<link href="https://img3.doubanio.com/f/book/222a5c61e041638af8defc87cf97f4a863a77922/css/book/base/init.css" rel="stylesheet">
+<style type="text/css"></style>
+</head>
+<body>
+<script>var _body_start = new Date();</script>
+<link href="//img3.doubanio.com/dae/accounts/resources/f5f3d66/shire/bundle.css" rel="stylesheet" type="text/css">
+<div id="db-global-nav" class="global-nav">
+<div class="bd">
+<div class="top-nav-info">
+<a href="https://accounts.douban.com/passport/login?source=book" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+<div class="top-nav-doubanapp">
+<a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+<div id="doubanapp-tip">
+<a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+<a href="javascript: void 0;" class="tip-close">×</a>
+</div>
+<div id="top-nav-appintro" class="more-items">
+<p class="appintro-title">豆瓣</p>
+<p class="qrcode">扫码直接下载</p>
+<div class="download">
+<a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+<span>·</span>
+<a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+</div>
+</div>
+</div>
+<div class="global-nav-items">
+<ul>
+<li class="">
+<a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+</li>
+<li class="on">
+<a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+</li>
+<li class="">
+<a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+</li>
+<li class="">
+<a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+</li>
+<li class="">
+<a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+</li>
+<li class="">
+<a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+</li>
+<li class="">
+<a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+</li>
+<li class="">
+<a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+</li>
+<li class="">
+<a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+</li>
+<li class="">
+<a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+</li>
+<li>
+<a href="#more" class="bn-more"><span>更多</span></a>
+<div class="more-items">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<script>
+;window._GLOBAL_NAV = {
+DOUBAN_URL: "https://www.douban.com",
+N_NEW_NOTIS: 0,
+N_NEW_DOUMAIL: 0
+};
+</script>
+<script src="//img3.doubanio.com/dae/accounts/resources/f5f3d66/shire/bundle.js" defer="defer"></script>
+<link href="//img3.doubanio.com/dae/accounts/resources/f5f3d66/book/bundle.css" rel="stylesheet" type="text/css">
+<div id="db-nav-book" class="nav">
+<div class="nav-wrap">
+<div class="nav-primary">
+<div class="nav-logo">
+<a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+</div>
+<div class="nav-search">
+<form action="https:&#47;&#47;search.douban.com&#47;book/subject_search" method="get">
+<fieldset>
+<legend>搜索：</legend>
+<label for="inp-query">
+</label>
+<div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+<div class="inp-btn"><input type="submit" value="搜索"></div>
+<input type="hidden" name="cat" value="1001" />
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-secondary">
+<div class="nav-items">
+<ul>
+<li    ><a href="https://book.douban.com/cart/"
+>购书单</a>
+</li>
+<li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+target="_blank"
+>电子图书</a>
+</li>
+<li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+>豆瓣书店</a>
+</li>
+<li    ><a href="https://book.douban.com/annual/2019?source=navigation"
+target="_blank"
+>2019年度榜单</a>
+</li>
+<li    ><a href="https://m.douban.com/standbyme/annual2019?source=navigation"
+target="_blank"
+>2019书影音报告</a>
+</li>
+<li          class=" book-cart"
+><a href="https://market.douban.com/cart/?biz_type=book&utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+target="_blank"
+>购物车</a>
+</li>
+</ul>
+</div>
+<a href="https://book.douban.com/annual/2019?source=book_navigation" class="bookannual"></a>
+</div>
+</div>
+<script id="suggResult" type="text/x-jquery-tmpl">
+<li data-link="{{= url}}">
+<a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+<img src="{{= pic}}" width="40" />
+<div>
+<em>{{= title}}</em>
+{{if year}}
+<span>{{= year}}</span>
+{{/if}}
+<p>
+{{if type == "b"}}
+{{= author_name}}
+{{else type == "a" }}
+{{if en_name}}
+{{= en_name}}
+{{/if}}
+{{/if}}
+</p>
+</div>
+</a>
+</li>
+</script>
+<script src="//img3.doubanio.com/dae/accounts/resources/f5f3d66/book/bundle.js" defer="defer"></script>
+<div id="wrapper">
+<div id="content">
+<h1>豆瓣图书标签: 童话</h1>
+<div class="grid-16-8 clearfix">
+<div class="article">
+<div id="subject_list">
+<div class="clearfix">
+<span class="rr greyinput">
+综合排序
+&nbsp;/&nbsp;
+<a href="/tag/%E7%AB%A5%E8%AF%9D?type=R">按出版日期排序</a>
+&nbsp;/&nbsp;
+<a href="/tag/%E7%AB%A5%E8%AF%9D?type=S">按评价排序</a>
+</span>
+</div>
+<ul class="subject-list">
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1084336/"
+onclick="moreurl(this,{i:'0',query:'',subject_id:'1084336',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/view/subject/m/public/s1103152.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1084336/" title="小王子"
+onclick="moreurl(this,{i:'0',query:'',subject_id:'1084336',from:'book_subject_search'})">
+小王子
+</a>
+</h2>
+<div class="pub">
+[法] 圣埃克苏佩里 / 马振聘 / 人民文学出版社 / 2003-8 / 22.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+(516693人评价)
+</span>
+</div>
+<p>小王子是一个超凡脱俗的仙童，他住在一颗只比他大一丁点儿的小行星上。陪伴他的是一朵他非常喜爱的小玫瑰花。但玫瑰花的虚荣心伤害了小王子对她的感情。小王子告别小行... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3608208/"
+onclick="moreurl(this,{i:'1',query:'',subject_id:'3608208',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/view/subject/m/public/s3668327.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3608208/" title="牧羊少年奇幻之旅"
+onclick="moreurl(this,{i:'1',query:'',subject_id:'3608208',from:'book_subject_search'})">
+牧羊少年奇幻之旅
+</a>
+</h2>
+<div class="pub">
+[巴西] 保罗·柯艾略 / 丁文林 / 南海出版公司 / 2009-3-1 / 25.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+(110812人评价)
+</span>
+</div>
+<p>牧羊少年圣地亚哥接连两次做了同一个梦，梦见埃及金字塔附近藏有一批宝藏。少年卖掉羊群，历尽千辛万苦一路向南，跨海来到非洲，穿越“死亡之海”撒哈拉大沙漠……期间... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3608208/buylinks">
+纸质版 20.00 元起
+</a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1046209/"
+onclick="moreurl(this,{i:'2',query:'',subject_id:'1046209',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/view/subject/m/public/s1034062.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1046209/" title="安徒生童话故事集"
+onclick="moreurl(this,{i:'2',query:'',subject_id:'1046209',from:'book_subject_search'})">
+安徒生童话故事集
+</a>
+</h2>
+<div class="pub">
+（丹麦）安徒生 / 叶君健 / 人民文学出版社 / 1997-08 / 25.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.2</span>
+<span class="pl">
+(73740人评价)
+</span>
+</div>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1043008/"
+onclick="moreurl(this,{i:'3',query:'',subject_id:'1043008',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/view/subject/m/public/s1134341.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1043008/" title="格林童话全集"
+onclick="moreurl(this,{i:'3',query:'',subject_id:'1043008',from:'book_subject_search'})">
+格林童话全集
+</a>
+</h2>
+<div class="pub">
+[德国]格林兄弟 / 魏以新 / 人民文学出版社 / 1994-11 / 21.45元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+(60428人评价)
+</span>
+</div>
+<p>《格林童话全集》是德国民间故事集。由德国的雅各・格林和威廉・格林兄弟根据民间口述材料改写而成。他们搜集、整理、出版这些民间童话的目的，正如威廉所说，是&#34;希望... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1035848/"
+onclick="moreurl(this,{i:'4',query:'',subject_id:'1035848',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/view/subject/m/public/s1070937.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1035848/" title="一千零一夜"
+onclick="moreurl(this,{i:'4',query:'',subject_id:'1035848',from:'book_subject_search'})">
+一千零一夜
+</a>
+</h2>
+<div class="pub">
+纳训 / 人民文学出版社 / 2003-01 / 22.0
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+(39252人评价)
+</span>
+</div>
+<p>《一千零一夜》又名《天方夜谭》。&#34;天方&#34;是从前中国对阿拉伯的称呼。这本书中的故事，多是阿拉伯地区国家的传说。 公元9世纪时，是阿拉伯帝国的全盛时期，它横跨亚... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1036274/"
+onclick="moreurl(this,{i:'5',query:'',subject_id:'1036274',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/view/subject/m/public/s1120437.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1036274/" title="夏洛的网"
+onclick="moreurl(this,{i:'5',query:'',subject_id:'1036274',from:'book_subject_search'})">
+夏洛的网
+</a>
+</h2>
+<div class="pub">
+[美] E.B.怀特 / 任溶溶 / 上海译文出版社 / 2004-5 / 17.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+(46302人评价)
+</span>
+</div>
+<p>一个蜘蛛和小猪的故事，写给孩子，也写给大人。
+在朱克曼家的谷仓里，快乐地生活着一群动物，其中小猪威尔伯和蜘蛛夏洛建立了最真挚的友谊。然而，一个最丑恶的消息打... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1007914/"
+onclick="moreurl(this,{i:'6',query:'',subject_id:'1007914',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/view/subject/m/public/s1067911.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1007914/" title="窗边的小豆豆"
+onclick="moreurl(this,{i:'6',query:'',subject_id:'1007914',from:'book_subject_search'})">
+窗边的小豆豆
+</a>
+</h2>
+<div class="pub">
+[日] 黑柳彻子 著、岩崎千弘 图 / 赵玉皎 / 南海出版公司 / 2003-1 / 20.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.7</span>
+<span class="pl">
+(141634人评价)
+</span>
+</div>
+<p>《窗边的小豆豆》讲述了作者上小学时的一段真实的故事。作者因淘气被原学校退学后，来到巴学园。在小林校长的爱护和引导下，让一般人眼里“怪怪”的小豆豆逐渐成了一个... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1041007/"
+onclick="moreurl(this,{i:'7',query:'',subject_id:'1041007',from:'book_subject_search'})">
+<img class="" src="https://img3.doubanio.com/view/subject/m/public/s1557671.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1041007/" title="哈利·波特与魔法石"
+onclick="moreurl(this,{i:'7',query:'',subject_id:'1041007',from:'book_subject_search'})">
+哈利·波特与魔法石
+</a>
+</h2>
+<div class="pub">
+[英] J. K. 罗琳 / 苏农 / 人民文学出版社 / 2000-9 / 19.50元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+(165657人评价)
+</span>
+</div>
+<p>一岁的哈利・波特失去父母后，神秘地出现在姨父姨妈家的门前。哈利在姨父家饱受欺凌，度过十年极其痛苦的日子。姨父和姨妈好似凶神恶煞，他们那混世魔王儿子达力――一... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/20443559/"
+onclick="moreurl(this,{i:'8',query:'',subject_id:'20443559',from:'book_subject_search'})">
+<img class="" src="https://img9.doubanio.com/view/subject/m/public/s28850934.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/20443559/" title="小王子"
+onclick="moreurl(this,{i:'8',query:'',subject_id:'20443559',from:'book_subject_search'})">
+小王子
+</a>
+</h2>
+<div class="pub">
+安托万•德•圣埃克苏佩里 / 李继宏 / 天津人民出版社 / 2013-1 / 32.00
+</div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.7</span>
+<span class="pl">
+(24190人评价)
+</span>
+</div>
+<p>《小王子》是一本足以让人永葆童心的不朽经典，被全球亿万读者誉为非常值得收藏的书。
+遥远星球上的小王子，与美丽而骄傲的玫瑰吵架负气出走，在各星球漫游中，小王子... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/20443559/buylinks">
+纸质版 15.10 元起
+</a>
+</span>
+</div>
+<div class="ebook-link">
+<a target="_blank" href="https://read.douban.com/ebook/1473388/?dcs=tag-buylink&amp;dcm=douban&amp;dct=20443559">去看电子版</a>
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/33446904/"
+onclick="moreurl(this,{i:'9',query:'',subject_id:'33446904',from:'book_subject_search'})">
+<img class="" src="https://img9.doubanio.com/view/subject/m/public/s32322906.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/33446904/" title="烧火工"
+onclick="moreurl(this,{i:'9',query:'',subject_id:'33446904',from:'book_subject_search'})">
+烧火工
+</a>
+</h2>
+<div class="pub">
+刘慈欣 著、BUTU 绘 / 后浪丨北京联合出版公司 / 2019-7 / 68.00元
+</div>
+<div class="star clearfix">
+<span class="allstar40"></span>
+<span class="rating_nums">7.6</span>
+<span class="pl">
+(1215人评价)
+</span>
+</div>
+<p>刘慈欣首部科幻童话作品，人气插画师BUTU绘制。“一个原本只想擦亮星星的人，决定用一生来唤醒太阳。”
+◎ 编辑推荐
+☆ 刘慈欣首部科幻童话作品。
+刘慈欣，中... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="market-info">
+<a href="https://book.douban.com/subject/33446904/?channel=subject_list&amp;platform=web" target="_blank">在豆瓣购买</a>
+</span>
+</div>
+<div class="ebook-link">
+<a target="_blank" href="https://read.douban.com/ebook/130656650/?dcs=tag-buylink&amp;dcm=douban&amp;dct=33446904">去看电子版</a>
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1071241/"
+onclick="moreurl(this,{i:'10',query:'',subject_id:'1071241',from:'book_subject_search'})">
+<img class="" src="https://img9.doubanio.com/view/subject/m/public/s1074376.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1071241/" title="哈利·波特与阿兹卡班的囚徒"
+onclick="moreurl(this,{i:'10',query:'',subject_id:'1071241',from:'book_subject_search'})">
+哈利·波特与阿兹卡班的囚徒
+</a>
+</h2>
+<div class="pub">
+[英] J. K. 罗琳 / 郑须弥 / 人民文学出版社 / 2000-9 / 26.50元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+(128990人评价)
+</span>
+</div>
+<p>《哈利·波特与阿兹卡班的囚徒》是“哈利·波特”系列的第三部。
+哈利·波特在霍格沃茨魔法学校已经度过了不平凡的两年，而且早已听说魔法世界中有一座守备森严的阿兹... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3554154/"
+onclick="moreurl(this,{i:'11',query:'',subject_id:'3554154',from:'book_subject_search'})">
+<img class="" src="https://img9.doubanio.com/view/subject/m/public/s3721175.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3554154/" title="阿狸·梦之城堡"
+onclick="moreurl(this,{i:'11',query:'',subject_id:'3554154',from:'book_subject_search'})">
+阿狸·梦之城堡
+</a>
+</h2>
+<div class="pub">
+hans / 上海锦绣文章出版社 / 2009-1 / 36.80元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+(32792人评价)
+</span>
+</div>
+<p>阿狸童话绘本为纯手绘创作，画风成熟稳定，颜色精美靓丽。阿狸绘本的文字脚本立足于挖掘人们内心深处的柔软与坚强，围绕亲情、爱情、友情主题，风格温暖，有发人深省的... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3554154/buylinks">
+纸质版 9.60 元起
+</a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/26344078/"
+onclick="moreurl(this,{i:'12',query:'',subject_id:'26344078',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/view/subject/m/public/s28041509.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/26344078/" title="夜莺与玫瑰"
+onclick="moreurl(this,{i:'12',query:'',subject_id:'26344078',from:'book_subject_search'})">
+夜莺与玫瑰
+<span style="font-size:12px;"> : 王尔德童话集 </span>
+</a>
+</h2>
+<div class="pub">
+[英] 奥斯卡·王尔德 / 谈瀛洲 / 浙江文艺出版社 / 2015-4 / 32
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+(6436人评价)
+</span>
+</div>
+<p>除了《小王子》，成人童话我们还看王尔德《夜莺与玫瑰》。
+第一部真正写给成人看的童话，他第一个提出成人童话概念。
+王尔德说：“童话不是为儿童而写，是为十八到八... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/26344078/buylinks">
+纸质版 34.90 元起
+</a>
+</span>
+</div>
+<div class="ebook-link">
+<a target="_blank" href="https://read.douban.com/ebook/9047675/?dcs=tag-buylink&amp;dcm=douban&amp;dct=26344078">去看电子版</a>
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/3693974/"
+onclick="moreurl(this,{i:'13',query:'',subject_id:'3693974',from:'book_subject_search'})">
+<img class="" src="https://img9.doubanio.com/view/subject/m/public/s3750146.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/3693974/" title="小王子"
+onclick="moreurl(this,{i:'13',query:'',subject_id:'3693974',from:'book_subject_search'})">
+小王子
+</a>
+</h2>
+<div class="pub">
+[法]圣埃克絮佩里 / 周克希 / 上海译文出版社 / 2009-4 / 29.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.4</span>
+<span class="pl">
+(8542人评价)
+</span>
+</div>
+<p>《小王子》是法国著名作家圣埃克絮佩里的一部响誉世界的畅销童话。本书是中、法、英三种语言对照的版本，采用彩色插图并配有难词解析，可以同时兼顾喜爱《小王子》的读... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/3693974/buylinks">
+纸质版 38.00 元起
+</a>
+</span>
+</div>
+<div class="ebook-link">
+<a target="_blank" href="https://read.douban.com/ebook/5426839/?dcs=tag-buylink&amp;dcm=douban&amp;dct=3693974">去看电子版</a>
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1041128/"
+onclick="moreurl(this,{i:'14',query:'',subject_id:'1041128',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/view/subject/m/public/s2414747.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1041128/" title="天蓝色的彼岸"
+onclick="moreurl(this,{i:'14',query:'',subject_id:'1041128',from:'book_subject_search'})">
+天蓝色的彼岸
+<span style="font-size:12px;"> : 关于生命和死亡最深刻的寓言 </span>
+</a>
+</h2>
+<div class="pub">
+（英）艾利克斯・希尔 / 张雪松 / 新世界出版社 / 2003-12 / 19.80元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.6</span>
+<span class="pl">
+(14330人评价)
+</span>
+</div>
+<p>这是一部感人至深，触动灵魂的人性寓言。
+小男孩哈利因车祸去了另一个世界。在那里它他加入了等待去天蓝色彼岸的队伍。但他还挂念着爸爸，妈妈，姐姐和同学们，却又不... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/1041128/buylinks">
+纸质版 11.60 元起
+</a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1855231/"
+onclick="moreurl(this,{i:'15',query:'',subject_id:'1855231',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/view/subject/m/public/s1785279.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1855231/" title="银河铁道之夜"
+onclick="moreurl(this,{i:'15',query:'',subject_id:'1855231',from:'book_subject_search'})">
+银河铁道之夜
+<span style="font-size:12px;"> : 宫泽贤治童话 </span>
+</a>
+</h2>
+<div class="pub">
+[日]宫泽贤治 / 周龙梅 / 青岛出版社 / 2006 / 19.80元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.5</span>
+<span class="pl">
+(3848人评价)
+</span>
+</div>
+<p>《银河铁道之夜:宫泽贤治童话》精选了宫泽贤治的部分经典童话，从中你可以品到这位世界级童话大师的绝代风采。一列闪烁着天光的银河铁道列车拔地而起，飞过一片片熠熠... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/6857344/"
+onclick="moreurl(this,{i:'16',query:'',subject_id:'6857344',from:'book_subject_search'})">
+<img class="" src="https://img9.doubanio.com/view/subject/m/public/s10345525.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/6857344/" title="夜莺与玫瑰"
+onclick="moreurl(this,{i:'16',query:'',subject_id:'6857344',from:'book_subject_search'})">
+夜莺与玫瑰
+</a>
+</h2>
+<div class="pub">
+[英] 王尔德 著、查尔斯·罗宾逊 绘 / 林徽因 / 辽宁教育出版社 / 2011-9 / 34.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">8.5</span>
+<span class="pl">
+(9857人评价)
+</span>
+</div>
+<p>《夜莺与玫瑰》是王尔德所著的童话作品经典选集，共收录了他的《夜莺与玫瑰》《幸福王子》《巨人的花园》《忠实的朋友》《驰名的火箭》和《星孩儿》七部脍炙人口的经典... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+<span class="buy-info">
+<a href="https://book.douban.com/subject/6857344/buylinks">
+纸质版 22.10 元起
+</a>
+</span>
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1002898/"
+onclick="moreurl(this,{i:'17',query:'',subject_id:'1002898',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/view/subject/m/public/s1094608.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1002898/" title="父与子全集"
+onclick="moreurl(this,{i:'17',query:'',subject_id:'1002898',from:'book_subject_search'})">
+父与子全集
+</a>
+</h2>
+<div class="pub">
+[德] 埃·奥·卜劳恩 绘 / 杨莹 / 中国工人出版社 / 2003-4 / 20.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.2</span>
+<span class="pl">
+(36722人评价)
+</span>
+</div>
+<p>²内容简介²
+1934年12月，第二次世界大战前夜的德国，到处充满了火药味，正是在这样的一个背景下，一套取材于日常生活反映父子间感情的漫画作品开始在《柏林画... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1064841/"
+onclick="moreurl(this,{i:'18',query:'',subject_id:'1064841',from:'book_subject_search'})">
+<img class="" src="https://img1.doubanio.com/view/subject/m/public/s1050548.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1064841/" title="绿山墙的安妮"
+onclick="moreurl(this,{i:'18',query:'',subject_id:'1064841',from:'book_subject_search'})">
+绿山墙的安妮
+</a>
+</h2>
+<div class="pub">
+[加] 露西·莫德·蒙哥玛利 / 马爱农 / 浙江文艺出版社 / 2003-01 / 15.00元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.1</span>
+<span class="pl">
+(7719人评价)
+</span>
+</div>
+<p>一部最甜蜜的描写儿童生活的小说。安妮是个身世凄凉的小女孩，出生不久即父母双亡，成了孤儿。好心的邻居把她养到六岁之后她又到另一户人家看孩子，后来被送到了孤儿院... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+<li class="subject-item">
+<div class="pic">
+<a class="nbg" href="https://book.douban.com/subject/1009257/"
+onclick="moreurl(this,{i:'19',query:'',subject_id:'1009257',from:'book_subject_search'})">
+<img class="" src="https://img9.doubanio.com/view/subject/m/public/s1072746.jpg"
+width="90">
+</a>
+</div>
+<div class="info">
+<h2 class="">
+<a href="https://book.douban.com/subject/1009257/" title="哈利·波特与火焰杯"
+onclick="moreurl(this,{i:'19',query:'',subject_id:'1009257',from:'book_subject_search'})">
+哈利·波特与火焰杯
+</a>
+</h2>
+<div class="pub">
+[英] J. K. 罗琳 / 马爱新 / 人民文学出版社 / 2001-5 / 39.80元
+</div>
+<div class="star clearfix">
+<span class="allstar45"></span>
+<span class="rating_nums">9.0</span>
+<span class="pl">
+(123332人评价)
+</span>
+</div>
+<p>《哈利·波特与火焰杯》是“哈利·波特”系列的第四部。
+哈利·波特在霍格沃茨魔法学校经过三年的学习和磨炼，逐渐成长为一个出色的巫师。新学年开始前，哈利和好朋友... </p>
+<div class="ft">
+<div class="collect-info">
+</div>
+<div class="cart-actions">
+</div>
+</div>
+</div>
+</li>
+</ul>
+<div class="paginator">
+<span class="prev">
+&lt;前页
+</span>
+<span class="thispage">1</span>
+<a href="/tag/童话?start=20&amp;type=T" >2</a>
+<a href="/tag/童话?start=40&amp;type=T" >3</a>
+<a href="/tag/童话?start=60&amp;type=T" >4</a>
+<a href="/tag/童话?start=80&amp;type=T" >5</a>
+<a href="/tag/童话?start=100&amp;type=T" >6</a>
+<a href="/tag/童话?start=120&amp;type=T" >7</a>
+<a href="/tag/童话?start=140&amp;type=T" >8</a>
+<a href="/tag/童话?start=160&amp;type=T" >9</a>
+<span class="break">...</span>
+<a href="/tag/童话?start=1580&amp;type=T" >80</a>
+<a href="/tag/童话?start=1600&amp;type=T" >81</a>
+<span class="next">
+<link rel="next" href="/tag/童话?start=20&amp;type=T"/>
+<a href="/tag/童话?start=20&amp;type=T" >后页&gt;</a>
+</span>
+</div>
+</div>
+</div>
+<div class="aside">
+<br/>
+<div id="dale_book_tag_top_right"></div>
+<h2>
+<span class="">相关的标签</span>
+&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+</h2>
+<div class="tags-list">
+<a href="/tag/儿童文学">儿童文学</a>
+<a href="/tag/童书">童书</a>
+<a href="/tag/安徒生">安徒生</a>
+<a href="/tag/童年">童年</a>
+<a href="/tag/郑渊洁">郑渊洁</a>
+<a href="/tag/已藏">已藏</a>
+<a href="/tag/绘本">绘本</a>
+<a href="/tag/外国文学">外国文学</a>
+</div>
+<form name="tsp_form" action="/tag/" method="GET">
+<input name="search_text" class="j a_search_text" type="text" size="24" maxlength="36" title="去其他标签" value=""/>
+<input class="butt" type="submit" value="进入"/>
+</form>
+<br/>
+<br/>
+<p class="pl2 mb30">
+&gt; <a href="/tag/">浏览全部图书标签</a>
+</p>
+<br/>
+<br/>
+<div class="block5 movie_show">
+<h2>最近受关注的书-童话</h2>
+<div class="content clearfix" id="book_rec">
+<dl>
+<dt><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/3823070/"><img src="https://img1.doubanio.com/view/subject/s/public/s3874387.jpg"
+class="m_sub_img" /></a></dt>
+<dd><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/3823070/">最后的精灵</a>
+</dd>
+</dl>
+<dl>
+<dt><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/27050816/"><img src="https://img3.doubanio.com/view/subject/s/public/s29472601.jpg"
+class="m_sub_img" /></a></dt>
+<dd><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/27050816/">大人心理童话</a>
+</dd>
+</dl>
+<dl>
+<dt><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/1036274/"><img src="https://img1.doubanio.com/view/subject/s/public/s1120437.jpg"
+class="m_sub_img" /></a></dt>
+<dd><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/1036274/">夏洛的网</a>
+</dd>
+</dl>
+<div class="clearfix rr" style="width:100%"></div>
+<dl>
+<dt><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/27059884/"><img src="https://img1.doubanio.com/view/subject/s/public/s29530748.jpg"
+class="m_sub_img" /></a></dt>
+<dd><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/27059884/">碟形世界：猫和少年魔笛手</a>
+</dd>
+</dl>
+<dl>
+<dt><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/27050813/"><img src="https://img9.doubanio.com/view/subject/s/public/s29456886.jpg"
+class="m_sub_img" /></a></dt>
+<dd><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/27050813/">拯救王子的公主</a>
+</dd>
+</dl>
+<dl>
+<dt><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/27025046/"><img src="https://img9.doubanio.com/view/subject/s/public/s29494255.jpg"
+class="m_sub_img" /></a></dt>
+<dd><a onclick="moreurl(this, {'r1001':'book-tag-top'})"
+href="https://book.douban.com/subject/27025046/">飞越玫瑰园</a>
+</dd>
+</dl>
+<div class="clearfix rr" style="width:100%"></div>
+</div>
+</div>
+<script type="text/javascript">
+(function (global) {
+var newNode = global.document.createElement('script'),
+existingNode = global.document.getElementsByTagName('script')[0],
+adSource = '//erebor.douban.com/',
+userId = '',
+browserId = 'CRGb0iLYXvc',
+criteria = '3:/tag/童话',
+preview = '',
+debug = false,
+adSlots = ['dale_book_tag_top_right'];
+global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+newNode.setAttribute('type', 'text/javascript');
+newNode.setAttribute('src', '//img1.doubanio.com/eDRjYjNvdi9mL2FkanMvZTQ2YTNkMjgwYjBiMzc2OWE4YTI3MWFhMzI0NTQwMTBlMWY3OTYzMy9hZC5yZWxlYXNlLmpz');
+newNode.setAttribute('async', true);
+existingNode.parentNode.insertBefore(newNode, existingNode);
+})(this);
+</script>
+</div>
+<div class="extra">
+</div>
+</div>
+</div>
+<div id="footer">
+<span id="icp" class="fleft gray-link">
+&copy; 2005－2020 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+<span class="fright">
+<a href="https://www.douban.com/about">关于豆瓣</a>
+· <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+· <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+· <a href="https://www.douban.com/about/legal">法律声明</a>
+· <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+· <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+· <a href="https://www.douban.com/doubanapp/">移动应用</a>
+· <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+</div>
+</div>
+<!-- COLLECTED JS -->
+<!-- mako -->
+<script>
+$(function () {
+function update_tags(current) {
+html = $.map(current, function(o) {return '<span class="tags-name">' + o + '</span><sup class="tags-del"></sup> '}).join('<span class="tags-add">+</span>');
+$('h1').html('<span class="name">电影标签：</span>' + html);
+};
+function get_current_tags() {
+var r = [];
+$('.tags-name').each(function() {r.push($(this).text())});
+return r;
+};
+function get_current_sort_type() {
+url = location.href;
+array = url.split("?")
+if (array.length == 1) {
+return "";
+}
+query = array[1];
+arr = query.split("&");
+for (var i = 0; i < arr.length; i++) {
+arr2 = arr[i].split('=');
+if (arr2[0] == "type") {
+if (arr2.length == 1) {
+return "";
+}
+return arr2[1];
+}
+}
+return "";
+};
+function update_subject_list(current, sort_type) {
+$('#subject_list').html('<span class="pl">载入中，请稍候...</span>');
+$('#subject_list').load_withck('/j/tag/j_subject_list', {tags:current.join(' '), type:sort_type}, function() {});
+};
+function update_related_tags_and_subject(current, sort_type) {
+update_related_tags(current, sort_type);
+// update_subject_list(current, sort_type);
+};
+function update_related_tags(current, sort_type) {
+$('#related_tags').load_withck('/j/tag/j_related_tag', {tags:current.join(' '), type:sort_type}, function() {
+$('.more').toggle(
+function () {
+$('.tags-hide').css('display', 'inline');
+$(this).text('收起▲');
+},
+function () {
+$('.tags-hide').hide();
+$(this).text('更多▼');
+}
+);
+$('.tags-del').click(function () {
+if($(this).prev().prev().text() == '+') {
+$(this).prev().prev().remove();
+} else if ($(this).next().text() == '+') {
+$(this).next().remove();
+}
+$(this).prev().remove().end().remove();
+current = get_current_tags();
+if (current.length == 0){
+document.location.href = '/tag/';
+} else {
+//setHash(current.join(' '));
+//location.href = '/tag/' + (location.href).split('#')[1] + '?type=' + sort_type;
+sort_type = get_current_sort_type();
+location.href = '/tag/' + current.join(' ') + '?type=' + sort_type;
+}
+});
+$('.add-tag').click(function () {
+current = get_current_tags();
+current.push($(this).text());
+update_tags(current);
+//setHash(current.join(' '));
+//location.href = '/tag/' + (location.href).split('#')[1] + '?type=' + sort_type;
+sort_type = get_current_sort_type();
+location.href = '/tag/' + current.join(' ') + '?type=' + sort_type;
+});
+$('.tagsInput').keypress(function (e) {
+if (e.which == 13) {
+current = get_current_tags();
+current.push($(this).val());
+update_tags(current);
+sort_type = get_current_sort_type();
+//setHash(current.join(' '));
+//location.href = '/tag/' + (location.href).split('#')[1] + '?type=' + sort_type;
+location.href = '/tag/' + current.join(' ') + '?type=' + sort_type;
+}
+});
+checkInput($('.tagsInput'));
+});
+};
+current = get_current_tags();
+sort_type = get_current_sort_type();
+update_related_tags_and_subject(current, sort_type);
+function checkInput (o) {
+if (!o.val() || o.val() == o.attr('title')) {
+o.addClass('greyinput');
+o.val(o.attr('title'));
+}
+o.focus(function(){
+o.removeClass('greyinput');
+if(o.val() == o.attr('title')) o.val('');
+});
+o.blur(function(){
+if(!o.val()){
+o.addClass('greyinput');
+o.val(o.attr('title'));
+}
+});
+}
+if($.browser.msie && $.browser.version == 6.0) {
+$('.tags-del').hover(
+function () { $(this).addClass('tags-hover'); },
+function () { $(this).removeClass('tags-hover'); }
+);
+}
+if (location.href.split('#').length > 1) {
+//changeUrl ();
+}
+});
+function setHash (a) {
+$.browser.msie?$.locationHash(a):location.hash = a;
+}
+</script>
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+_paq.push(['setTrackerUrl', u+'piwik']);
+_paq.push(['setSiteId', '100001']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript';
+g.defer=true;
+g.async=true;
+g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+s.parentNode.insertBefore(g,s);
+})();
+</script>
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+var ns = namespace ? namespace + '.' : ''
+, fn = function(string) {
+if(!ns) {return string}
+return ns + string
+}
+return fn
+}
+var gaWithNamespace = function(fn, namespace) {
+var method = setMethodWithNs(namespace)
+fn.call(this, method)
+}
+var _gaq = _gaq || []
+, accounts = [
+{ id: 'UA-7019765-1', namespace: 'douban' }
+, { id: 'UA-7019765-16', namespace: '' }
+]
+, gaInit = function(account) {
+gaWithNamespace(function(method) {
+gaInitFn.call(this, method, account)
+}, account.namespace)
+}
+, gaInitFn = function(method, account) {
+_gaq.push([method('_setAccount'), account.id])
+_gaq.push([method('_addOrganic'), 'google', 'q'])
+_gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+_gaq.push([method('_addOrganic'), 'soso', 'w'])
+_gaq.push([method('_addOrganic'), 'youdao', 'q'])
+_gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+_gaq.push([method('_addOrganic'), 'sogou', 'query'])
+if (account.namespace) {
+_gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+_gaq.push([method('_addIgnoredOrganic'), 'douban'])
+_gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+_gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+}
+if (account.namespace === 'douban') {
+_gaq.push([method('_setDomainName'), '.douban.com'])
+}
+_gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+_gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+_gaq.push([method('_trackPageview')])
+}
+for(var i = 0, l = accounts.length; i < l; i++) {
+var account = accounts[i]
+gaInit(account)
+}
+;(function() {
+var ga = document.createElement('script');
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ga.setAttribute('async', 'true');
+document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+<!-- dae-web-book--default-55c6c7d785-jhw7w-->
+</body>
+</html>
